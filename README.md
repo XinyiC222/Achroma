@@ -8,15 +8,22 @@ Achroma is a wireless reversible split keyboard with 36 keys that is powered by 
 <img width="832" height="351" alt="Screenshot 2026-08-30 at 11 53 48 AM" src="https://github.com/user-attachments/assets/0452fd5d-9ea8-417f-8345-d0c81544de25" />
 
 <h1>Resources</h1>
-**Footprints and References:**
+<h3>Footprints and References:</h3>
+
 https://github.com/piit79/42keebs-kicad
+
 https://flatfootfox.com/ergogen-part6-reversible-split/
+
 https://github.com/kata0510/Lily58 (this has a great footprint library!)
+
 https://github.com/aroum/PNCATEHO (reversible Choc footprints that fits both versions!)
 
-**Tools**
+<h3>Tools</h3>
+
 https://www.keyboard-layout-editor.com/
+
 https://nickcoutsos.github.io/keymap-editor/
+
 https://github.com/adamws/kicad-kbplacer
 
 <h1>Mini Guide/ My Process (Work in progress)</h1>
