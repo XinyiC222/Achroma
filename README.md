@@ -32,9 +32,12 @@ https://github.com/adamws/kicad-kbplacer
 2. I ended up choosing to making my own layout and use ZMK for wireless. So I went ahead and looked for reversible footprints to use. I also wanted to use a battery for it. I then went into keyboard layout editor and made my desired layout.( I only made the left side first)
 3. Then I created the schematics in kicad. It included a jst pin, a reversible nice!nano, choc/mx switches, LED, slide switch, and a reset button.
 4. then using the .json file from the layout I made in keyboard layout editor and the kbplacer, I organized the keys for the left split.
-5. spent a lot of time between editing the schematics, the pcb, and testing new footprint libraries. After a ton of trial and error I made the general layout I wanted.
+5. spent a lot of time between editing the schematics, the pcb, and testing new footprint libraries. After a ton of trial and error I made the general layout I wanted.  <img width="669" height="581" alt="Screenshot 2026-08-14 at 11 48 46 PM" src="https://github.com/user-attachments/assets/d9c77be9-3df2-45ad-8046-b5981d78f557" />
+
 6. Exported the gerber files and imported them into jlc pcb.
-7. I then added 3d models to each of the footprints and import it into fusion to make the case(MX only)
+7. I then added 3d models to each of the footprints and import it into fusion to make the case(MX only) <img width="725" height="637" alt="Screenshot 2026-08-16 at 12 56 51 PM" src="https://github.com/user-attachments/assets/c5be81e1-61a5-4ea5-bbf2-6614a139f221" />
+
 8. I looked for components in aliexpress
 9. Then I started reading through how to set up ZMK and made the firmware using github actions.
 10. Lastly once you've build the physical item, flash the firmware into the devices.
+<img width="438" height="331" alt="Screenshot 2026-08-30 at 11 56 32 AM" src="https://github.com/user-attachments/assets/852533ed-ffd5-4c57-a3a8-59d902e629e9" />
