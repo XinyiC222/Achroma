@@ -1,5 +1,5 @@
 # Achroma
-Achroma is a wireless reversible split keyboard with 36 keys that is powered by ZMK. It uses a nine!nano v2 replica from aliexpress. There are two versions of Achroma, the Choc/Choc_v2 compatible one, and the MX compatible one! This is still a work in progress.
+Achroma is a wireless reversible split keyboard with 36 keys that is powered by ZMK. It uses a nine!nano v2 replica from aliexpress. There are two versions of Achroma, the Choc/Choc_v2 compatible one, and the MX compatible one! This is still a work in progress. Theres only a case for the MX version. But there are two different pcb designs based on which one you want to use.
 <img width="1041" height="353" alt="Screenshot 2026-08-30 at 11 53 14 AM" src="https://github.com/user-attachments/assets/326148d5-1d46-4c0e-b277-6b07cf525208" />
 <img width="432" height="392" alt="Screenshot 2026-08-30 at 11 56 21 AM" src="https://github.com/user-attachments/assets/f6918ed5-c05c-42d6-a021-438333500752" /> (MX version)
 <h1>Keymap</h1>
