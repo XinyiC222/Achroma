@@ -41,3 +41,26 @@ https://github.com/adamws/kicad-kbplacer
 9. Then I started reading through how to set up ZMK and made the firmware using github actions.
 10. Lastly once you've build the physical item, flash the firmware into the devices.
 <img width="438" height="331" alt="Screenshot 2026-08-30 at 11 56 32 AM" src="https://github.com/user-attachments/assets/852533ed-ffd5-4c57-a3a8-59d902e629e9" />
+
+<h1>BOM</h1>
+Here's the BOM! The Quantity listed below are the amount they gave and some don't have enough for the project if you are using this as a reference. All listed items are required for the build and it is only the quantity column that you should be careful when referencing. EX. I only ordered hotswaps in a pack of 10 cause I have some at home
+
+| Item | Purpose | Price | Quantity | Source |
+| :--- | :--- | :--- | :--- | :--- |
+| Nice!Nano V2.0 | Micro controller | $1.95 | 1 | Aliexpress |
+| Nice!Nano V2.0 | Micro comtroller | $2.81 | 1 | Aliexpress |
+| M2 6mm screws | securing the pcb | $1.37 | x50 | Aliexpress |
+| M2xL3xOD3.2 heat inserts | for the screws | $0.99 | x100 | Aliexpress |
+| Gateron Milky Switches | switches | $6.91 | x30 | Aliexpress |
+| SK6812 MINI-E RGB | RGB | $3.61 | x100 | Aliexpress |
+| Hotswap Sockets | sockets for switches | $1.33 | x10 | Aliexpress |
+| Horizontal Microswitch | reset button | $2.04 | x50 | Aliexpress |
+| PH 2.0 Horizontal Header Socket | for the battery | $1.80 | x10 | Aliexpress |
+| SS12D00G3 Toggle Switch | battery on/off | $0.92 | x5 | Aliexpress |
+| IN4148 SOD-123 | diodes | $2.08 | x100 | Aliexpress |
+| 3.7V 2000mAh Polymer Lithium Battery | Battery | $9.23 | x2 | Aliexpress |
+| PCB | connect everything together | $9.60 | x5 | JLCPCB |
+| **Aliexpress Subtotal** | | **$35.48** | | |
+| **JLC Subtotal** | | **$9.60** | | |
+| **shipping+tax** | | **+$12.14** | | |
+| **Total:** | | **$57.22** | | |
