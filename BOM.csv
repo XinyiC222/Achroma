@@ -1,1 +1,19 @@
+Item,Purpose,Price,Quantity,Source
+Nice!Nano V2.0,Micro controller,$1.95,1,Aliexpress
+Nice!Nano V2.0,Micro comtroller,$2.81,1,Aliexpress
+M2 6mm screws,securing the pcb,$1.37,x50,Aliexpress
+M2xL3xOD3.2 heat inserts,for the screws,$0.99,x100,Aliexpress
+Gateron Milky Switches,switches,$6.91,x30,Aliexpress
+SK6812 MINI-E RGB,RGB,$3.61,x100,Aliexpress
+Hotswap Sockets,sockets for switches,$1.33,x10,Aliexpress
+Horizontal Microswitch,reset button,$2.04,x50,Aliexpress
+PH 2.0 Horizontal Header Socket,for the battery,$1.80,x10,Aliexpress
+SS12D00G3 Toggle Switch,battery on/off,$0.92,x5,Aliexpress
+IN4148 SOD-123,diodes,$2.08,x100,Aliexpress
+3.7V 2000mAh Polymer Lithium Battery,Battery,$9.23,x2,Aliexpress
+PCB,connect everything together,$9.60,x5,JLCPCB
+Aliexpress Subtotal,,$35.48,,
+JLC Subtotal,,$9.23,,
+shipping+tax,,+$12.08,,
+Total:,,57.22,,
 
