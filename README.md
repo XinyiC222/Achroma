@@ -85,3 +85,11 @@ Here's the BOM! The Quantity listed below are the amount you need. The links inc
 | **JLC Subtotal** | | **$9.60** | | |
 | **shipping+tax** | | **+$12.24** | | |
 | **Total:** | | **$58.50** | | |
+
+## Credits
+<div align="center">
+  
+[![Hack Club macondo](https://img.shields.io/badge/Hack%20Club-🦋Macondo-FFC800?style=for-the-badge&logo=hack-club&logoColor=red)](https://macondo.hackclub.com)
+[![kicad](https://img.shields.io/badge/Designed%20in-Kicad-00578F?style=for-the-badge&logo=Kicad&logoColor=white)](https://kicad.org)
+[![Fusion 360](https://img.shields.io/badge/CAD%20in-Fusion%20360-orange?style=for-the-badge&logo=autodesk&logoColor=white)](https://www.autodesk.com/products/fusion-360)
+</div>
