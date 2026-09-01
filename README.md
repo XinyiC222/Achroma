@@ -1,5 +1,7 @@
 # Achroma
-Achroma is a wireless reversible split keyboard with 36 keys that is powered by ZMK. It uses a nine!nano v2 replica from aliexpress. There are two versions of Achroma, the Choc/Choc_v2 compatible one, and the MX compatible one! This is still a work in progress. Theres only a case for the MX version. But there are two different pcb designs based on which one you want to use. Here is the ZMK source files: https://github.com/XinyiC222/zmk-achroma-config
+
+Achroma is a wireless reversible split keyboard with 36 keys that is powered by ZMK. It uses a nine!nano v2 replica from aliexpress. There are two versions of Achroma, the Choc/Choc_v2 compatible one, and the MX compatible one! This is still a work in progress. Theres only a case for the MX version. But there are two different pcb designs based on which one you want to use. Here is the ZMK source files: https://github.com/XinyiC222/zmk-achroma-config I made this after seeing countless split keyboard builds that people where making online and I wanted to join in on the fun! To use it you just have to turn on the on/off button that is connected to the battery. The pcb is designed in kicad and the case is modeled in Fusion360.
+
 <img width="1041" height="353" alt="Screenshot 2026-08-30 at 11 53 14 AM" src="https://github.com/user-attachments/assets/326148d5-1d46-4c0e-b277-6b07cf525208" />
 <img width="432" height="392" alt="Screenshot 2026-08-30 at 11 56 21 AM" src="https://github.com/user-attachments/assets/f6918ed5-c05c-42d6-a021-438333500752" /> (MX version)
 <h1>Keymap</h1>
@@ -26,7 +28,13 @@ https://nickcoutsos.github.io/keymap-editor/
 
 https://github.com/adamws/kicad-kbplacer
 
+Fusion360
+
+Kicad
+
 <h1>Mini Guide/ My Process (Work in progress)</h1>
+
+Before starting, you should have already made some kind of electronic project prior to this. It would come off easier if you've designed a pcb before. Reading guides you find online can be super helpful. there are many resources that I didn't link but anything online is helpful. 
 
 1. I first researched and wrote down what I wanted this project to look like at the end. Do I want it to be low profile or MX? Do I want this to be reversible? How much money do I want to spend on this? Do I want to make a custom layout, or do I want to use an existing one? Wireless? etc.
 2. I ended up choosing to making my own layout and use ZMK for wireless. So I went ahead and looked for reversible footprints to use. I also wanted to use a battery for it. I then went into keyboard layout editor and made my desired layout.( I only made the left side first)
@@ -39,10 +47,12 @@ https://github.com/adamws/kicad-kbplacer
 
 8. I looked for components in aliexpress
 9. Then I started reading through how to set up ZMK and made the firmware using github actions.
-10. Lastly once you've build the physical item, flash the firmware into the devices.
+10. After you assemble the pcb and have printed the case out, use a M2 heat insert on all the holes in the case(5 total). Then place the pcb on top and use a M2 screw to tighten it in place.
+11. Once you've build the physical item, flash the firmware into the devices. You can learn more about it in the ZMK docs. If you'll like to use the firmware provided, please head to the Firmware folder to download what i have for both the left and the right side.
 <img width="438" height="331" alt="Screenshot 2026-08-30 at 11 56 32 AM" src="https://github.com/user-attachments/assets/852533ed-ffd5-4c57-a3a8-59d902e629e9" />
 
 <h1>BOM</h1>
+
 Here's the BOM! The Quantity listed below are the amount they gave and some don't have enough for the project if you are using this as a reference. All listed items are required for the build and it is only the quantity column that you should be careful when referencing. EX. I only ordered hotswaps in a pack of 10 cause I have some at home
 
 | Item | Purpose | Price | Quantity | Source |
