@@ -1,4 +1,4 @@
-# Achroma
+# Achroma WORK IN PROGRESS
 
 Achroma is a wireless reversible split keyboard with 36 keys that is powered by ZMK. It uses a nine!nano v2 replica from aliexpress. There are two versions of Achroma, the Choc/Choc_v2 compatible one, and the MX compatible one! This is still a work in progress. Theres only a case for the MX version. But there are two different pcb designs based on which one you want to use. Here is the ZMK source files: https://github.com/XinyiC222/zmk-achroma-config I made this after seeing countless split keyboard builds that people where making online and I wanted to join in on the fun! To use it you just have to turn on the on/off button that is connected to the battery. The pcb is designed in kicad and the case is modeled in Fusion360.
 
