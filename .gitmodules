@@ -1,0 +1,3 @@
+[submodule "zmk-achroma-config"]
+	path = zmk-achroma-config
+	url = https://github.com/XinyiC222/zmk-achroma-config
