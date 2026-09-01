@@ -1,5 +1,5 @@
 # Achroma
-Achroma is a wireless reversible split keyboard with 36 keys that is powered by ZMK. It uses a nine!nano v2 replica from aliexpress. There are two versions of Achroma, the Choc/Choc_v2 compatible one, and the MX compatible one! This is still a work in progress. Theres only a case for the MX version. But there are two different pcb designs based on which one you want to use.
+Achroma is a wireless reversible split keyboard with 36 keys that is powered by ZMK. It uses a nine!nano v2 replica from aliexpress. There are two versions of Achroma, the Choc/Choc_v2 compatible one, and the MX compatible one! This is still a work in progress. Theres only a case for the MX version. But there are two different pcb designs based on which one you want to use. Here is the ZMK source files: https://github.com/XinyiC222/zmk-achroma-config
 <img width="1041" height="353" alt="Screenshot 2026-08-30 at 11 53 14 AM" src="https://github.com/user-attachments/assets/326148d5-1d46-4c0e-b277-6b07cf525208" />
 <img width="432" height="392" alt="Screenshot 2026-08-30 at 11 56 21 AM" src="https://github.com/user-attachments/assets/f6918ed5-c05c-42d6-a021-438333500752" /> (MX version)
 <h1>Keymap</h1>
@@ -47,20 +47,20 @@ Here's the BOM! The Quantity listed below are the amount they gave and some don'
 
 | Item | Purpose | Price | Quantity | Source |
 | :--- | :--- | :--- | :--- | :--- |
-| Nice!Nano V2.0 | Micro controller | $1.95 | 1 | Aliexpress |
-| Nice!Nano V2.0 | Micro comtroller | $2.81 | 1 | Aliexpress |
-| M2 6mm screws | securing the pcb | $1.37 | x50 | Aliexpress |
-| M2xL3xOD3.2 heat inserts | for the screws | $0.99 | x100 | Aliexpress |
-| Gateron Milky Switches | switches | $6.91 | x30 | Aliexpress |
-| SK6812 MINI-E RGB | RGB | $3.61 | x100 | Aliexpress |
-| Hotswap Sockets | sockets for switches | $1.33 | x10 | Aliexpress |
-| Horizontal Microswitch | reset button | $2.04 | x50 | Aliexpress |
-| PH 2.0 Horizontal Header Socket | for the battery | $1.80 | x10 | Aliexpress |
-| SS12D00G3 Toggle Switch | battery on/off | $0.92 | x5 | Aliexpress |
-| IN4148 SOD-123 | diodes | $2.08 | x100 | Aliexpress |
-| 3.7V 2000mAh Polymer Lithium Battery | Battery | $9.23 | x2 | Aliexpress |
+| Nice!Nano V2.0 | Micro controller | $1.95 | 1 | [Aliexpress](https://www.aliexpress.com/item/3256812809465916.html?spm=a2g0o.cart.0.0.564238daJS0mQo&mp=1&pdp_npi=6%40dis%21USD%21USD%2010.84%21USD%203.25%21%21USD%203.25%21%21%21%402101dedf17882176157074667e0e98%2112000059988282797%21ct%21US%217294405090%21%211%210%21) |
+| Nice!Nano V2.0 | Micro controller | $2.81 | 1 | [Aliexpress](https://www.aliexpress.com/item/3256807196955871.html?spm=a2g0o.cart.0.0.564238daJS0mQo&mp=1&pdp_npi=6%40dis%21USD%21USD%202.81%21USD%202.64%21%21USD%202.64%21%21%21%402101dedf17882176246834968e0e98%2112000047100969961%21ct%21US%217294405090%21%211%210%21) |
+| M2 6mm screws | securing the pcb | $1.37 | x50 | [Aliexpress](https://www.aliexpress.com/item/3256807033160325.html?spm=a2g0o.cart.0.0.564238daJS0mQo&mp=1&pdp_npi=6%40dis%21USD%21USD%201.37%21USD%201.37%21%21USD%201.37%21%21%21%402101dedf17882176157074667e0e98%2112000039933522857%21ct%21US%217294405090%21%211%210%21) |
+| M2xL3xOD3.2 heat inserts | for the screws | $0.99 | x100 | [Aliexpress](https://www.aliexpress.com/item/3256806651793931.html?spm=a2g0o.cart.0.0.564238daJS0mQo&mp=1&pdp_npi=6%40dis%21USD%21USD%203.08%21USD%200.99%21%21USD%200.99%21%21%21%402101dedf17882176157074667e0e98%2112000038467725083%21ct%21US%217294405090%21%211%210%21) |
+| Gateron Milky Switches | switches | $6.91 | x30 | [Aliexpress](https://www.aliexpress.com/item/3256803874880557.html?spm=a2g0o.cart.0.0.564238daJS0mQo&mp=1&pdp_npi=6%40dis%21USD%21USD%207.35%21USD%206.91%21%21USD%206.91%21%21%21%402101dedf17882176157074667e0e98%2112000027903926419%21ct%21US%217294405090%21%211%210%21) |
+| SK6812 MINI-E RGB | RGB | $3.61 | x100 | [Aliexpress](https://www.aliexpress.com/item/3256807677321116.html?spm=a2g0o.cart.0.0.564238daJS0mQo&mp=1&pdp_npi=6%40dis%21USD%21USD%203.61%21USD%203.61%21%21USD%203.61%21%21%21%402101dedf17882176246834968e0e98%2112000042594617264%21ct%21US%217294405090%21%211%210%21) |
+| Hotswap Sockets | sockets for switches | $1.33 | x10 | [Aliexpress](https://www.aliexpress.com/item/3256807045726008.html?spm=a2g0o.cart.0.0.564238daJS0mQo&mp=1&pdp_npi=6%40dis%21USD%21USD%202.66%21USD%201.33%21%21USD%201.33%21%21%21%402101dedf17882176157074667e0e98%2112000039893759771%21ct%21US%217294405090%21%211%210%21) |
+| Horizontal Microswitch | reset button | $2.04 | x50 | [Aliexpress](https://www.aliexpress.com/item/3256806318779497.html?spm=a2g0o.cart.0.0.564238daJS0mQo&mp=1&pdp_npi=6%40dis%21USD%21USD%202.04%21USD%202.04%21%21USD%202.04%21%21%21%402101dedf17882176246834968e0e98%2112000037444053760%21ct%21US%217294405090%21%211%210%21) |
+| PH 2.0 Horizontal Header Socket | for the battery | $1.80 | x10 | [Aliexpress](https://www.aliexpress.com/item/3256808824951678.html?spm=a2g0o.cart.0.0.564238daJS0mQo&mp=1&pdp_npi=6%40dis%21USD%21USD%201.80%21USD%201.80%21%21USD%201.80%21%21%21%402101dedf17882176293735149e0e98%2112000047583383492%21ct%21US%217294405090%21%211%210%21&pdp_ext_f=%7B%22cart2PdpParams%22%3A%7B%22pdpBusinessMode%22%3A%22retail%22%7D%7D) |
+| SS12D00G3 Toggle Switch | battery on/off | $0.92 | x5 | [Aliexpress](https://www.aliexpress.com/item/3256808561935510.html?spm=a2g0o.cart.0.0.564238daJS0mQo&mp=1&pdp_npi=6%40dis%21USD%21USD%200.92%21USD%200.92%21%21USD%200.92%21%21%21%402101dedf17882176319215275e0e98%2112000046504078875%21ct%21US%217294405090%21%211%210%21) |
+| IN4148 SOD-123 | diodes | $2.08 | x100 | [Aliexpress](https://www.aliexpress.com/item/2255800498728983.html?spm=a2g0o.cart.0.0.564238daJS0mQo&mp=1&pdp_npi=6%40dis%21USD%21USD%202.08%21USD%202.08%21%21USD%202.08%21%21%21%402101dedf17882176365865480e0e98%2112000037997014577%21ct%21US%217294405090%21%211%210%21) |
+| 401030 3.7V 110mAh Polymer Lithium Battery | Battery | $9.72 | x2 | [Aliexpress](https://www.aliexpress.us/item/3256811360999976.html?mp=1&pdp_npi=6@dis!USD!USD+11.30!USD+9.72!!USD+9.72!!!@210328df17882265747402256e0fd1!12000055885084344!ct!US!7294405090!!1!0!&gatewayAdapt=glo2usa) |
 | PCB | connect everything together | $9.60 | x5 | JLCPCB |
-| **Aliexpress Subtotal** | | **$35.48** | | |
+| **Aliexpress Subtotal** | | **$36.66** | | |
 | **JLC Subtotal** | | **$9.60** | | |
-| **shipping+tax** | | **+$12.14** | | |
-| **Total:** | | **$57.22** | | |
+| **shipping+tax** | | **+$12.24** | | |
+| **Total:** | | **$58.50** | | |
