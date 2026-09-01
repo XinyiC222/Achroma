@@ -79,6 +79,7 @@ Here's the BOM! The Quantity listed below are the amount you need. The links inc
 | SS12D00G3 Toggle Switch | battery on/off | $0.92 | x2 | [Aliexpress](https://www.aliexpress.com/item/3256808561935510.html?spm=a2g0o.cart.0.0.564238daJS0mQo&mp=1&pdp_npi=6%40dis%21USD%21USD%200.92%21USD%200.92%21%21USD%200.92%21%21%21%402101dedf17882176319215275e0e98%2112000046504078875%21ct%21US%217294405090%21%211%210%21) |
 | IN4148 SOD-123 | diodes | $2.08 | x36 | [Aliexpress](https://www.aliexpress.com/item/2255800498728983.html?spm=a2g0o.cart.0.0.564238daJS0mQo&mp=1&pdp_npi=6%40dis%21USD%21USD%202.08%21USD%202.08%21%21USD%202.08%21%21%21%402101dedf17882176365865480e0e98%2112000037997014577%21ct%21US%217294405090%21%211%210%21) |
 | 401030 3.7V 110mAh Polymer Lithium Battery | Battery | $9.72 | x2 | [Aliexpress](https://www.aliexpress.us/item/3256811360999976.html?mp=1&pdp_npi=6@dis!USD!USD+11.30!USD+9.72!!USD+9.72!!!@210328df17882265747402256e0fd1!12000055885084344!ct!US!7294405090!!1!0!&gatewayAdapt=glo2usa) |
+| Case | cover | | x2 | 3d Printed |
 | PCB | connect everything together | $9.60 | x2 | JLCPCB |
 | **Aliexpress Subtotal** | | **$36.66** | | |
 | **JLC Subtotal** | | **$9.60** | | |
