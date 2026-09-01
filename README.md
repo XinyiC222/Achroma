@@ -51,6 +51,16 @@ Before starting, you should have already made some kind of electronic project pr
 11. Once you've build the physical item, flash the firmware into the devices. You can learn more about it in the ZMK docs. If you'll like to use the firmware provided, please head to the Firmware folder to download what i have for both the left and the right side.
 <img width="438" height="331" alt="Screenshot 2026-08-30 at 11 56 32 AM" src="https://github.com/user-attachments/assets/852533ed-ffd5-4c57-a3a8-59d902e629e9" />
 
+<h1>Schematic</h1>
+<img width="781" height="489" alt="Screenshot 2026-09-01 at 12 18 42 PM" src="https://github.com/user-attachments/assets/9c151edd-c996-4d7d-88f3-e99ec2bb097b" />
+
+<PCB>
+<img width="697" height="619" alt="Screenshot 2026-09-01 at 12 19 13 PM" src="https://github.com/user-attachments/assets/731080f0-56e3-42e8-a729-d18db2552c62" />
+<img width="718" height="523" alt="Screenshot 2026-09-01 at 12 19 52 PM" src="https://github.com/user-attachments/assets/d003cbd7-0e88-4ff0-929a-9da6e15d31fd" />
+<img width="689" height="604" alt="Screenshot 2026-09-01 at 12 19 33 PM" src="https://github.com/user-attachments/assets/57204159-df68-4dba-b66e-cddc072c63d5" />
+<img width="735" height="573" alt="Screenshot 2026-09-01 at 12 20 06 PM" src="https://github.com/user-attachments/assets/01d836ae-e534-4e7c-9256-959e7f269abb" />
+
+
 <h1>BOM</h1>
 
 Here's the BOM! The Quantity listed below are the amount they gave and some don't have enough for the project if you are using this as a reference. All listed items are required for the build and it is only the quantity column that you should be careful when referencing. EX. I only ordered hotswaps in a pack of 10 cause I have some at home
