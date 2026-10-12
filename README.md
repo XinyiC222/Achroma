@@ -88,7 +88,7 @@ Here's the BOM! The Quantity listed below are the amount you need. The links inc
 
 ## Credits
 <div align="center">
-[![Hack Club Forge](https://shields.io)](https://forge.hackclub.com/)
-[![kicad](https://img.shields.io/badge/Designed%20in-Kicad-00578F?style=for-the-badge&logo=Kicad&logoColor=white)](https://kicad.org)
-[![Fusion 360](https://img.shields.io/badge/CAD%20in-Fusion%20360-orange?style=for-the-badge&logo=autodesk&logoColor=white)](https://www.autodesk.com/products/fusion-360)
+  [![Hack Club Forge](https://shields.io)](https://forge.hackclub.com)
+  [![kicad](https://img.shields.io/badge/Designed%20in-Kicad-00578F?style=for-the-badge&logo=Kicad&logoColor=white)](https://kicad.org)
+  [![Fusion 360](https://img.shields.io/badge/CAD%20in-Fusion%20360-orange?style=for-the-badge&logo=autodesk&logoColor=white)](https://www.autodesk.com/products/fusion-360)
 </div>
