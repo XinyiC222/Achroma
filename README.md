@@ -63,8 +63,6 @@ Before starting, you should have already made some kind of electronic project pr
 
 <h1>BOM</h1>
 
-Here's the BOM! The Quantity listed below are the amount you need. The links included come in bulks and vary depending on how much you are buyinh. All listed items are required for the build.
-
 | Item | Purpose | Price | Quantity | Source |
 | :--- | :--- | :--- | :--- | :--- |
 | Nice!Nano V2.0 | Micro controller | $1.95 | 1 | [Aliexpress](https://www.aliexpress.com/item/3256812809465916.html?spm=a2g0o.cart.0.0.564238daJS0mQo&mp=1&pdp_npi=6%40dis%21USD%21USD%2010.84%21USD%203.25%21%21USD%203.25%21%21%21%402101dedf17882176157074667e0e98%2112000059988282797%21ct%21US%217294405090%21%211%210%21) |
